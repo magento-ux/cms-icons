@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/divider</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/divider" fill="#AAA6A0">
+            <path d="M10,13 L25,13 L25,15 L10,15 L10,13 Z M10,19 L25,19 L25,21 L10,21 L10,19 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

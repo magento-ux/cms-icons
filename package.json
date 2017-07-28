@@ -1,0 +1,9 @@
+{
+  "name": "CMS-Icons",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-webfont": "latest"
+  }
+}
