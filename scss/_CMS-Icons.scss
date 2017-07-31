@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"CMS-Icons";
-	src:url("../fonts/CMS-Icons.eot?037cb4a424d092649e9e87a168c38d9e");
+	src:url("../fonts/CMS-Icons.eot?4aad613812fd9080f8f2c2ed282b1e93");
 	src:url("../fonts/CMS-Icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/CMS-Icons.woff?037cb4a424d092649e9e87a168c38d9e") format("woff"),
-		url("../fonts/CMS-Icons.ttf?037cb4a424d092649e9e87a168c38d9e") format("truetype");
+		url("../fonts/CMS-Icons.woff?4aad613812fd9080f8f2c2ed282b1e93") format("woff"),
+		url("../fonts/CMS-Icons.ttf?4aad613812fd9080f8f2c2ed282b1e93") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -71,73 +71,91 @@
 
 
 
-.icon-divider:before {
+.icon-columns:before {
 	content:"\f107";
 }
 
 
 
-.icon-heading:before {
+.icon-divider:before {
 	content:"\f108";
 }
 
 
 
-.icon-image:before {
+.icon-exit-fullscreen-copy:before {
 	content:"\f109";
 }
 
 
 
-.icon-map:before {
+.icon-fullscreen:before {
 	content:"\f10a";
 }
 
 
 
-.icon-new:before {
+.icon-heading:before {
 	content:"\f10b";
 }
 
 
 
-.icon-newsletter:before {
+.icon-image:before {
 	content:"\f10c";
 }
 
 
 
-.icon-product-search:before {
+.icon-map:before {
 	content:"\f10d";
 }
 
 
 
-.icon-slider:before {
+.icon-new:before {
 	content:"\f10e";
 }
 
 
 
-.icon-tabs:before {
+.icon-newsletter:before {
 	content:"\f10f";
 }
 
 
 
-.icon-text:before {
+.icon-product-search:before {
 	content:"\f110";
 }
 
 
 
-.icon-variable:before {
+.icon-slider:before {
 	content:"\f111";
 }
 
 
 
-.icon-widgets:before {
+.icon-tabs:before {
 	content:"\f112";
+}
+
+
+
+.icon-text:before {
+	content:"\f113";
+}
+
+
+
+.icon-variable:before {
+	content:"\f114";
+}
+
+
+
+.icon-widgets:before {
+	content:"\f115";
 }
 
