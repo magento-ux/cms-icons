@@ -1,5 +1,8 @@
-# cms-icons
-SVG icons and font for the Advanced CMS project (Bluefoot)
+# CMS Icons and artwork
+
+SVG icons and font for the Advanced CMS project (Bluefoot).
+
+Preview: https://magento-ux.github.io/cms-icons/scss/CMS-Icons.html
 
 Uses https://github.com/sapegin/grunt-webfont to build the icon font and the CSS classes from the folder of SVG images.
 
