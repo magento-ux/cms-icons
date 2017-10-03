@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/newsletter</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icons/newsletter" fill="#AAA6A0">
-            <path d="M17.5037001,18.148058 L17.5037001,18.1482556 L10.0584023,12 C10.0584023,12 24.9899496,12.0053824 25,12.0062218 L17.5037001,18.148058 Z M17.2332893,20.160771 L17.7577103,20.160771 L25.0055472,14.1890733 L25.0055472,22.5300048 C25.0055472,22.7895935 24.7275891,23 24.4635285,23 L10.4779691,23 C10.2138586,23 10,22.7895935 10,22.5300048 L10,14.4416243 L17.2332893,20.160771 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <path fill="#544843" d="M150.074003,162.89514 L150.074003,162.898769 L1.16804698,50 C1.16804698,50 299.798992,50.0988356 300,50.1142492 L150.074003,162.89514 Z M155.154206,199.854049 L298.829952,90.3193036 L298.829952,250 L7.95807864e-13,250 L7.95807864e-13,94.8348922 L144.665786,199.854049 L155.154206,199.854049 Z"/>
 </svg>

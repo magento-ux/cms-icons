@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/columns</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icons/columns" fill="#544843">
-            <path d="M20,4.00016 L20,20 L4,20 L4,4 L20,4.00016 Z M11,5.74830746 L5.5389341,5.74830746 L5.5389341,18.2408656 L11,18.2408656 L11,5.74830746 Z M18.5385383,5.74830746 L13,5.74830746 L13,18.2408656 L18.5385383,18.2408656 L18.5385383,5.74830746 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <path fill="#544843" fill-rule="evenodd" d="M275,25.0025001 L275,275 L25,275 L25,25 L275,25.0025001 Z M138,50 L50,50 L50,250 L138,250 L138,50 Z M250,50 L162,50 L162,250 L250,250 L250,50 Z"/>
 </svg>

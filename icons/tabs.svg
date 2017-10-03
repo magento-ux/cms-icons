@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/tabs</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icons/tabs" fill="#AAA6A0">
-            <path d="M14.9118768,16.2085372 L22.9019089,16.2085372 L22.9019089,23 L11,23 L11,16.8542686 L11,12 L14.9118768,12 L14.9118768,16.2085372 Z M16.055077,12 L18.9559384,12 L18.9559384,15.156181 L16.055077,15.156181 L16.055077,12 Z M20.0991386,12 L23,12 L23,15.156181 L20.0991386,15.156181 L20.0991386,12 Z" id="Combined-Shape-Copy"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <path fill="#544843" fill-rule="evenodd" d="M25,36 L115,36 L115,116 L25,116 L25,36 Z M136,36 L195,36 L195,95 L136,95 L136,36 Z M216,36 L275,36 L275,95 L216,95 L216,36 Z M25,116 L275,116 L275,264 L25,264 L25,116 Z"/>
 </svg>

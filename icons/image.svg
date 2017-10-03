@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/image</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icons/image" fill="#AAA6A0">
-            <path d="M7,10 L27,10 L27,25 L7,25 L7,10 Z M12.0297437,18 L8,23 L25.8727068,23 L19.5612039,14.8005308 L14.8714745,20.2992222 L12.0297437,18 Z M12,16 C13.1045695,16 14,15.1045695 14,14 C14,12.8954305 13.1045695,12 12,12 C10.8954305,12 10,12.8954305 10,14 C10,15.1045695 10.8954305,16 12,16 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <path fill="#544843" fill-rule="evenodd" d="M26,50 L275,50 L275,237 L26,237 L26,50 Z M88.2796162,149.800852 L38,212 L261,212 L182.250589,110 L123.736248,178.402785 L88.2796162,149.800852 Z M88,125 C101.807119,125 113,113.807119 113,100 C113,86.1928813 101.807119,75 88,75 C74.1928813,75 63,86.1928813 63,100 C63,113.807119 74.1928813,125 88,125 Z"/>
 </svg>

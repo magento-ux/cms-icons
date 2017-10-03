@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"CMS-Icons";
-	src:url("../fonts/CMS-Icons.eot?4aad613812fd9080f8f2c2ed282b1e93");
+	src:url("../fonts/CMS-Icons.eot?660c38ea017646c02d4d81b261197d00");
 	src:url("../fonts/CMS-Icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/CMS-Icons.woff?4aad613812fd9080f8f2c2ed282b1e93") format("woff"),
-		url("../fonts/CMS-Icons.ttf?4aad613812fd9080f8f2c2ed282b1e93") format("truetype");
+		url("../fonts/CMS-Icons.woff?660c38ea017646c02d4d81b261197d00") format("woff"),
+		url("../fonts/CMS-Icons.ttf?660c38ea017646c02d4d81b261197d00") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -47,7 +47,7 @@
 
 
 
-.icon-attribute:before {
+.icon-block:before {
 	content:"\f103";
 }
 
@@ -71,91 +71,115 @@
 
 
 
-.icon-columns:before {
+.icon-column:before {
 	content:"\f107";
 }
 
 
 
-.icon-divider:before {
+.icon-columns:before {
 	content:"\f108";
 }
 
 
 
-.icon-exit-fullscreen-copy:before {
+.icon-copy:before {
 	content:"\f109";
 }
 
 
 
-.icon-fullscreen:before {
+.icon-divider:before {
 	content:"\f10a";
 }
 
 
 
-.icon-heading:before {
+.icon-driver:before {
 	content:"\f10b";
 }
 
 
 
-.icon-image:before {
+.icon-fullscreen-exit:before {
 	content:"\f10c";
 }
 
 
 
-.icon-map:before {
+.icon-fullscreen:before {
 	content:"\f10d";
 }
 
 
 
-.icon-new:before {
+.icon-heading:before {
 	content:"\f10e";
 }
 
 
 
-.icon-newsletter:before {
+.icon-image:before {
 	content:"\f10f";
 }
 
 
 
-.icon-product-search:before {
+.icon-map:before {
 	content:"\f110";
 }
 
 
 
-.icon-slider:before {
+.icon-newsletter:before {
 	content:"\f111";
 }
 
 
 
-.icon-tabs:before {
+.icon-products:before {
 	content:"\f112";
 }
 
 
 
-.icon-text:before {
+.icon-row:before {
 	content:"\f113";
 }
 
 
 
-.icon-variable:before {
+.icon-slider:before {
 	content:"\f114";
 }
 
 
 
-.icon-widgets:before {
+.icon-special-characters:before {
 	content:"\f115";
+}
+
+
+
+.icon-tabs:before {
+	content:"\f116";
+}
+
+
+
+.icon-text:before {
+	content:"\f117";
+}
+
+
+
+.icon-variable:before {
+	content:"\f118";
+}
+
+
+
+.icon-widgets:before {
+	content:"\f119";
 }
 
