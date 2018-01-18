@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"CMS-Icons";
-	src:url("../fonts/CMS-Icons.eot?660c38ea017646c02d4d81b261197d00");
+	src:url("../fonts/CMS-Icons.eot?39624c535e974109533531a1b9c29312");
 	src:url("../fonts/CMS-Icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/CMS-Icons.woff?660c38ea017646c02d4d81b261197d00") format("woff"),
-		url("../fonts/CMS-Icons.ttf?660c38ea017646c02d4d81b261197d00") format("truetype");
+		url("../fonts/CMS-Icons.woff?39624c535e974109533531a1b9c29312") format("woff"),
+		url("../fonts/CMS-Icons.ttf?39624c535e974109533531a1b9c29312") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -77,109 +77,121 @@
 
 
 
-.icon-columns:before {
+.icon-copy:before {
 	content:"\f108";
 }
 
 
 
-.icon-copy:before {
+.icon-divider:before {
 	content:"\f109";
 }
 
 
 
-.icon-divider:before {
+.icon-driver:before {
 	content:"\f10a";
 }
 
 
 
-.icon-driver:before {
+.icon-fullscreen-exit:before {
 	content:"\f10b";
 }
 
 
 
-.icon-fullscreen-exit:before {
+.icon-fullscreen:before {
 	content:"\f10c";
 }
 
 
 
-.icon-fullscreen:before {
+.icon-heading:before {
 	content:"\f10d";
 }
 
 
 
-.icon-heading:before {
+.icon-image:before {
 	content:"\f10e";
 }
 
 
 
-.icon-image:before {
+.icon-map:before {
 	content:"\f10f";
 }
 
 
 
-.icon-map:before {
+.icon-newsletter:before {
 	content:"\f110";
 }
 
 
 
-.icon-newsletter:before {
+.icon-products:before {
 	content:"\f111";
 }
 
 
 
-.icon-products:before {
+.icon-row:before {
 	content:"\f112";
 }
 
 
 
-.icon-row:before {
+.icon-slider:before {
 	content:"\f113";
 }
 
 
 
-.icon-slider:before {
+.icon-special-characters:before {
 	content:"\f114";
 }
 
 
 
-.icon-special-characters:before {
+.icon-tabs:before {
 	content:"\f115";
 }
 
 
 
-.icon-tabs:before {
+.icon-text-center:before {
 	content:"\f116";
 }
 
 
 
-.icon-text:before {
+.icon-text-left:before {
 	content:"\f117";
 }
 
 
 
-.icon-variable:before {
+.icon-text-right:before {
 	content:"\f118";
 }
 
 
 
-.icon-widgets:before {
+.icon-text:before {
 	content:"\f119";
+}
+
+
+
+.icon-variable:before {
+	content:"\f11a";
+}
+
+
+
+.icon-widgets:before {
+	content:"\f11b";
 }
 
