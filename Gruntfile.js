@@ -59,8 +59,8 @@ module.exports = function(grunt) {
 
 
   webfont: {
-    icons: {
-      src: 'icons/*.svg',
+    adminIcons: {
+      src: 'icons/admin/*.svg',
       dest: 'fonts/',
       destCss: 'scss/',
       options: {
@@ -70,7 +70,19 @@ module.exports = function(grunt) {
         syntax: 'bootstrap',
         htmlDemo: 'true'
       }
-    }
+		},
+		storefrontIcons: {
+			src: 'icons/storefront/*.svg',
+      dest: 'fonts/',
+      destCss: 'scss/',
+      options: {
+        stylesheet: 'scss',
+        relativeFontPath: '../fonts',
+        font: 'CMS-Storefront-Icons',
+        syntax: 'bootstrap',
+        htmlDemo: 'true'
+      }
+		}
   },
 
 
