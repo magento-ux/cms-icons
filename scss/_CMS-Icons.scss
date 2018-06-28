@@ -4,10 +4,10 @@
 
 @font-face {
 	font-family:"CMS-Icons";
-	src:url("../fonts/CMS-Icons.eot?bd066af430453fc82fa01f98b968f93d");
+	src:url("../fonts/CMS-Icons.eot?c14b082637a7aa958bb456c8bcbc9d12");
 	src:url("../fonts/CMS-Icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/CMS-Icons.woff?bd066af430453fc82fa01f98b968f93d") format("woff"),
-		url("../fonts/CMS-Icons.ttf?bd066af430453fc82fa01f98b968f93d") format("truetype");
+		url("../fonts/CMS-Icons.woff?c14b082637a7aa958bb456c8bcbc9d12") format("woff"),
+		url("../fonts/CMS-Icons.ttf?c14b082637a7aa958bb456c8bcbc9d12") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -113,109 +113,115 @@
 
 
 
-.icon-heading:before {
+.icon-grid-size:before {
 	content:"\f10e";
 }
 
 
 
-.icon-hidden:before {
+.icon-heading:before {
 	content:"\f10f";
 }
 
 
 
-.icon-image:before {
+.icon-hidden:before {
 	content:"\f110";
 }
 
 
 
-.icon-map:before {
+.icon-image:before {
 	content:"\f111";
 }
 
 
 
-.icon-newsletter:before {
+.icon-map:before {
 	content:"\f112";
 }
 
 
 
-.icon-products:before {
+.icon-newsletter:before {
 	content:"\f113";
 }
 
 
 
-.icon-row:before {
+.icon-products:before {
 	content:"\f114";
 }
 
 
 
-.icon-slider:before {
+.icon-row:before {
 	content:"\f115";
 }
 
 
 
-.icon-special-characters:before {
+.icon-slider:before {
 	content:"\f116";
 }
 
 
 
-.icon-tabs:before {
+.icon-special-characters:before {
 	content:"\f117";
 }
 
 
 
-.icon-text-center:before {
+.icon-tabs:before {
 	content:"\f118";
 }
 
 
 
-.icon-text-left:before {
+.icon-text-center:before {
 	content:"\f119";
 }
 
 
 
-.icon-text-right:before {
+.icon-text-left:before {
 	content:"\f11a";
 }
 
 
 
-.icon-text:before {
+.icon-text-right:before {
 	content:"\f11b";
 }
 
 
 
-.icon-variable:before {
+.icon-text:before {
 	content:"\f11c";
 }
 
 
 
-.icon-video:before {
+.icon-variable:before {
 	content:"\f11d";
 }
 
 
 
-.icon-visible:before {
+.icon-video:before {
 	content:"\f11e";
 }
 
 
 
-.icon-widgets:before {
+.icon-visible:before {
 	content:"\f11f";
+}
+
+
+
+.icon-widgets:before {
+	content:"\f120";
 }
 
