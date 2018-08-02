@@ -66,7 +66,7 @@ module.exports = function(grunt) {
       options: {
         stylesheet: 'scss',
         relativeFontPath: '../fonts',
-        font: 'CMS-Icons',
+        font: 'pagebuilder-icons',
         syntax: 'bootstrap',
         htmlDemo: 'true'
       }
