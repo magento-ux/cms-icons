@@ -1,6 +1,9 @@
 {
   "name": "CMS-Icons",
   "version": "0.1.0",
+  "scripts": {
+    "start": "grunt"
+  },
   "devDependencies": {
     "grunt": "latest",
     "grunt-contrib-imagemin": "latest",
