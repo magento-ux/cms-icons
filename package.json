@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "grunt": "latest",
-    "grunt-contrib-imagemin": "latest",
-    "grunt-webfont": "^1.7.1"
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-webfont": "^1.7.2"
   }
 }
