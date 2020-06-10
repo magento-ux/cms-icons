@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="22" viewBox="0 0 88 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #524d49;
+      }
+
+      .cls-2 {
+        fill: #f0f;
+        opacity: 0;
+      }
+
+      .cls-3 {
+        fill: #505050;
+      }
+    </style>
+  </defs>
+  <g id="Group_166057" data-name="Group 166057" transform="translate(-492.24 -847.725)">
+    <rect id="Rectangle_144745" data-name="Rectangle 144745" class="cls-1" width="22" height="22" transform="translate(549.24 847.725)"/>
+    <rect id="Rectangle_144747" data-name="Rectangle 144747" class="cls-1" width="22" height="22" transform="translate(525.24 847.725)"/>
+    <rect id="Rectangle_144749" data-name="Rectangle 144749" class="cls-1" width="22" height="22" transform="translate(501.24 847.725)"/>
+    <g id="Chevron" transform="translate(575.118 862.747) rotate(-90)">
+      <rect id="Frame" class="cls-2" width="8" height="5" transform="translate(0.022 0.122)"/>
+      <path id="Shape" class="cls-3" d="M7.429.622A.62.62,0,0,0,6.37.182L3.715,2.839,1.06.182a.621.621,0,1,0-.878.878L3.275,4.154a.62.62,0,0,0,.877,0L7.245,1.06A.62.62,0,0,0,7.429.622Z" transform="translate(0.306 0.516)"/>
+    </g>
+    <g id="Chevron-2" data-name="Chevron" transform="translate(497.362 854.703) rotate(90)">
+      <rect id="Frame-2" data-name="Frame" class="cls-2" width="8" height="5" transform="translate(0.022 0.122)"/>
+      <path id="Shape-2" data-name="Shape" class="cls-3" d="M7.429.622A.62.62,0,0,0,6.37.182L3.715,2.839,1.06.182a.621.621,0,1,0-.878.878L3.275,4.154a.62.62,0,0,0,.877,0L7.245,1.06A.62.62,0,0,0,7.429.622Z" transform="translate(0.306 0.516)"/>
+    </g>
+  </g>
+</svg>

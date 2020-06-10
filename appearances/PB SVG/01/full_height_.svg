@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="42" viewBox="0 0 60 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #514d48;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_166063" data-name="Group 166063" transform="translate(8466 16914)">
+    <rect id="Rectangle_145043" data-name="Rectangle 145043" class="cls-1" width="54" height="26" transform="translate(-8463 -16906)"/>
+    <rect id="Rectangle_145060" data-name="Rectangle 145060" class="cls-1" width="5" height="7" transform="translate(-8466 -16914)"/>
+    <rect id="Rectangle_145061" data-name="Rectangle 145061" class="cls-2" width="5" height="7" transform="translate(-8466 -16891)"/>
+    <rect id="Rectangle_145062" data-name="Rectangle 145062" class="cls-2" width="5" height="7" transform="translate(-8466 -16902)"/>
+    <rect id="Rectangle_145063" data-name="Rectangle 145063" class="cls-1" width="5" height="7" transform="translate(-8466 -16879)"/>
+    <rect id="Rectangle_145064" data-name="Rectangle 145064" class="cls-1" width="3" height="7" transform="translate(-8466 -16891)"/>
+    <rect id="Rectangle_145065" data-name="Rectangle 145065" class="cls-1" width="3" height="7" transform="translate(-8466 -16902)"/>
+    <rect id="Rectangle_145066" data-name="Rectangle 145066" class="cls-1" width="5" height="7" transform="translate(-8406 -16872) rotate(180)"/>
+    <rect id="Rectangle_145067" data-name="Rectangle 145067" class="cls-2" width="5" height="7" transform="translate(-8406 -16895) rotate(180)"/>
+    <rect id="Rectangle_145068" data-name="Rectangle 145068" class="cls-2" width="5" height="7" transform="translate(-8406 -16884) rotate(180)"/>
+    <rect id="Rectangle_145069" data-name="Rectangle 145069" class="cls-1" width="5" height="7" transform="translate(-8406 -16907) rotate(180)"/>
+    <rect id="Rectangle_145070" data-name="Rectangle 145070" class="cls-1" width="3" height="7" transform="translate(-8406 -16895) rotate(180)"/>
+    <rect id="Rectangle_145071" data-name="Rectangle 145071" class="cls-1" width="3" height="7" transform="translate(-8406 -16884) rotate(180)"/>
+  </g>
+</svg>

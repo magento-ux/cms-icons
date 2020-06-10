@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.451" height="38" viewBox="0 0 66.451 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #514d48;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+
+      .cls-3 {
+        fill: #524d4a;
+      }
+    </style>
+  </defs>
+  <g id="Group_166061" data-name="Group 166061" transform="translate(8467.5 16328.5)">
+    <g id="Rectangle_140538" data-name="Rectangle 140538" transform="translate(-8467 -16327.691)">
+      <g id="Group_151199" data-name="Group 151199">
+        <rect id="Rectangle_140542" data-name="Rectangle 140542" class="cls-1" width="65" height="37" transform="translate(0 -0.308)"/>
+      </g>
+      <g id="Group_151200" data-name="Group 151200">
+        <path id="Path_498" data-name="Path 498" class="cls-2" d="M839.451-28.808H774V-65.5h65.451ZM774.5-29.3h64.459V-65H774.5Z" transform="translate(-774 65.5)"/>
+      </g>
+    </g>
+    <g id="Line_177" data-name="Line 177" transform="translate(-8456.832 -16319.217)">
+      <rect id="Rectangle_140543" data-name="Rectangle 140543" class="cls-3" width="12.454" height="1.488" transform="translate(0)"/>
+    </g>
+    <g id="Line_178" data-name="Line 178" transform="translate(-8456.832 -16313.723)">
+      <rect id="Rectangle_140544" data-name="Rectangle 140544" class="cls-3" width="12.454" height="1.488" transform="translate(0)"/>
+    </g>
+    <g id="Line_179" data-name="Line 179" transform="translate(-8452.327 -16308.23)">
+      <rect id="Rectangle_140545" data-name="Rectangle 140545" class="cls-3" width="12.454" height="1.488" transform="translate(0)"/>
+    </g>
+    <g id="Line_180" data-name="Line 180" transform="translate(-8460.469 -16319.217)">
+      <rect id="Rectangle_140546" data-name="Rectangle 140546" class="cls-3" width="2.257" height="1.488" transform="translate(0)"/>
+    </g>
+    <g id="Line_181" data-name="Line 181" transform="translate(-8460.469 -16313.723)">
+      <rect id="Rectangle_140547" data-name="Rectangle 140547" class="cls-3" width="2.257" height="1.488" transform="translate(0)"/>
+    </g>
+    <g id="Line_182" data-name="Line 182" transform="translate(-8455.966 -16308.23)">
+      <rect id="Rectangle_140548" data-name="Rectangle 140548" class="cls-3" width="2.257" height="1.488"/>
+    </g>
+    <g id="Line_183" data-name="Line 183" transform="translate(-8452.327 -16303.027)">
+      <rect id="Rectangle_140549" data-name="Rectangle 140549" class="cls-3" width="12.454" height="1.488" transform="translate(0 0)"/>
+    </g>
+    <g id="Line_184" data-name="Line 184" transform="translate(-8456.832 -16297.535)">
+      <rect id="Rectangle_140550" data-name="Rectangle 140550" class="cls-3" width="12.454" height="1.488" transform="translate(0 0)"/>
+    </g>
+    <g id="Line_185" data-name="Line 185" transform="translate(-8455.966 -16303.027)">
+      <rect id="Rectangle_140551" data-name="Rectangle 140551" class="cls-3" width="2.257" height="1.488" transform="translate(0 0)"/>
+    </g>
+    <g id="Line_186" data-name="Line 186" transform="translate(-8460.469 -16297.535)">
+      <rect id="Rectangle_140552" data-name="Rectangle 140552" class="cls-3" width="2.257" height="1.488" transform="translate(0 0)"/>
+    </g>
+    <g id="Line_193" data-name="Line 193" transform="translate(-8460.435 -16325.162)">
+      <rect id="Rectangle_140559" data-name="Rectangle 140559" class="cls-3" width="12.454" height="3.471" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

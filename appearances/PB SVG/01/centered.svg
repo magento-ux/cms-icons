@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="42" viewBox="0 0 80 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #514d48;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_166065" data-name="Group 166065" transform="translate(8339 16844)">
+    <rect id="Rectangle_145046" data-name="Rectangle 145046" class="cls-1" width="80" height="26" transform="translate(-8339 -16837)"/>
+    <g id="Group_166053" data-name="Group 166053" transform="translate(-8639 -17039)">
+      <rect id="Rectangle_140610" data-name="Rectangle 140610" class="cls-1" width="5" height="7" transform="translate(372 195)"/>
+      <rect id="Rectangle_140612" data-name="Rectangle 140612" class="cls-2" width="5" height="7" transform="translate(372 218)"/>
+      <rect id="Rectangle_140611" data-name="Rectangle 140611" class="cls-2" width="5" height="7" transform="translate(372 207)"/>
+      <rect id="Rectangle_140613" data-name="Rectangle 140613" class="cls-1" width="5" height="7" transform="translate(372 230)"/>
+    </g>
+    <g id="Group_166054" data-name="Group 166054" transform="translate(-8708 -17039)">
+      <rect id="Rectangle_140610-2" data-name="Rectangle 140610" class="cls-1" width="5" height="7" transform="translate(372 195)"/>
+      <rect id="Rectangle_140612-2" data-name="Rectangle 140612" class="cls-2" width="5" height="7" transform="translate(372 218)"/>
+      <rect id="Rectangle_140611-2" data-name="Rectangle 140611" class="cls-2" width="5" height="7" transform="translate(372 207)"/>
+      <rect id="Rectangle_140613-2" data-name="Rectangle 140613" class="cls-1" width="5" height="7" transform="translate(372 230)"/>
+    </g>
+  </g>
+</svg>
